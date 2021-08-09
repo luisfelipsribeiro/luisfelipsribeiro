@@ -1,7 +1,7 @@
 ## Olá, sou o Luis Felipe 
  <div>
   <a href="https://github.com/luisfelipsribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipsribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipsribeiro&&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipsribeiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
